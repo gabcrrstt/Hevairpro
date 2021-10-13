@@ -7,7 +7,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevairpro&layout=compact&langs_count=7&theme=dark"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Hevairpro/github-readme-stats">
     <img
       align="center"
       height="165"
